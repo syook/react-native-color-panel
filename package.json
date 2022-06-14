@@ -1,7 +1,6 @@
-
 {
   "name": "react-native-color-panel",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "React Native color picker component for iOS and Android",
   "main": "index.js",
   "scripts": {
